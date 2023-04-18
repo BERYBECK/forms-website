@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+        <html lang="en">
+ <head>
+            <meta charset="UTF-8">
+ <title>STUDENT REGISTRATION FORMS</title>
+</head>
+ <body>
+    <style>
+        body{background-color: aqua;}
+    </style>
+ <forms> <fieldset>
+    <h1>
+        STUDENT REGISTRATION FORMS
+    </h1>
+    </fieldset>
+    <div>
+        <br>
+    </div>
+    FIRST NAME:<input type="text">
+    <div>
+        <br>
+    </div>
+    LAST NAME:<input type="text">
+    <div>
+        <br>
+    </div>
+    PARENTS OR GADIAN:<input type="text">
+    <div>
+        <br>
+    </div>
+    PHONE NUMBER:<input type="text">
+    <div>
+        <br>
+    </div>
+    EMAIL:<input type="text">
+    <div>
+        <br>
+    </div>
+    GENDER:<input type="radio" name="my gender">
+    MALE:<input type="radio">
+    FEMALE:<input type="radio">
+    OTHERS:<input type="radio">
+    <div>
+        <br>
+    </div>
+    DATE OF BIRTH:<input type="date">
+    <div>
+        <br>
+    </div>
+ADDRESS:<input type="text">
+     <div>
+        <br>
+     </div>
+     BLOOD GROUP:
+     <Select name="drop-down">
+        <option value="A">A</option>
+        <option value="A+">A+</option>
+        <option value="B">B</option>
+        <option value="B">B++</option>
+        <option value="C">C</option>
+        </Select>
+        <div>
+            <br>
+        </div>
+        DEPARTMENT:<input type="radio" name="MY DEPARTMENT">
+        CEE<input type="radio">
+        EEE<input type="radio">
+        BRA<input type="radio">
+        <div>
+            <br>
+        </div>
+        COURSE:
+        <select name="drop-down">
+            <option value="SCIENCE">SCIENCE</option>
+            <option value="VISUAL ART">VISUAL ART</option>
+            <option value="GENERAIL ART">GENERAIL ART</option>
+            <option value="HOME ECONOMICS">HOME ECONOMICS</option>
+              </select>
+              <div>
+                <br>
+              </div>
+              PHOTO:<input type="file">
+              <div>
+                <br>
+              </div>
+              <input type="submit" value="submit">
+              <input type="reset" value="reset">
+
+        
+           
+            
+        
+
+
+
+     
+
+    
+
+
+
+
+ </forms>
+ 
+ </body>
+</html>
